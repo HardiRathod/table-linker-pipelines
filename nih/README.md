@@ -11,7 +11,7 @@
 	
 	https://exporter.nih.gov/ExPORTER_Catalog.aspx
 	
-	Run 1_NIH_Reporter_to_KGTK_files.ipynb notebook to convert data from NIH Reporter csv files to KGTK files
+	Run 1_NIH_Reporter_to_KGTK_files.ipynb notebook (in processing folder) to convert data from NIH Reporter csv files to KGTK files
 	Results: nih_kgtk_files 
 	https://drive.google.com/drive/u/0/folders/1UKwiTVef5yqhsUD454h_inYqjcl5Pcqu
 
@@ -22,7 +22,7 @@
 	Input: nih_kgtk_files 
 	https://drive.google.com/drive/u/0/folders/1UKwiTVef5yqhsUD454h_inYqjcl5Pcqu
 	
-	Run 2_KGTK_files_to_tl_and_tableau.ipynb notebook
+	Run 2_KGTK_files_to_tl_and_tableau.ipynb notebook (in processing folder)
 	
 	Final outputs are:
 	
@@ -60,7 +60,7 @@
 		
 	cluster_coor.tsv (in processing folder)
 		
-	Run 3 tableau.ipynb notebook
+	Run 3 tableau.ipynb notebook (in processing folder)
 	
 	Final outputs are:
 	

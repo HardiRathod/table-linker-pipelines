@@ -50,7 +50,7 @@
 
 
 
-4. Converting Raw KGTK Files to Table Linker / Tableau Files
+4. Converting Raw KGTK Files Tableau Files
 
 	Input: 
 	Wikidata Files (steps 1-4) in Build ElasticSearch Index Files for Table Linker, 
@@ -68,7 +68,7 @@
 	cluster_coor.tsv
 	https://github.com/usc-isi-i2/table-linker-pipelines/blob/main/nih/cluster_coor.tsv
 
-	Run 3_Output_tableau.ipynb notebook
+	Run 3_Output_tableau.ipynb notebook to convert the input files for tableau input tsv file
 
 	https://github.com/usc-isi-i2/table-linker-pipelines/blob/main/nih/processing/3_Output_tableau_Files.ipynb
 

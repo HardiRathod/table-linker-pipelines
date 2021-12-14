@@ -80,6 +80,6 @@
 
 Visualizating Output File in Tableau 
 
-	For instruction in map visualization with background color for county, 
+        For instruction in map visualization with background color for county, 
 	
 	see Video: https://youtu.be/XZGLJhLFZQ0

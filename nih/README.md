@@ -41,8 +41,8 @@
 	https://drive.google.com/drive/u/0/folders/1eKHhUl2R6-Rbh5tf0eRecNLkkthvV-I4
 	
 	Run: Table_linker_pipelines
-	
-	https://github.com/GrantXie/table-linker-pipelines/tree/main/nih
+	https://github.com/usc-isi-i2/table-linker-pipelines/blob/main/nih/org-pipeline.ipynb
+	https://github.com/usc-isi-i2/table-linker-pipelines/blob/main/nih/person-pipeline.ipynb
 	
 	Results: person_with_qid 
 	https://drive.google.com/drive/u/1/folders/10QsHjFFdJp2yMWjldDXqC7zy8uDbxc7z

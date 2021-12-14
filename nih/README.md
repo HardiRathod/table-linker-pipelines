@@ -13,7 +13,7 @@
 	
 	Run 1_NIH_Reporter_to_KGTK_files.ipynb notebook (in processing folder) to convert data from NIH Reporter csv files to KGTK files
 	
-	https://github.com/GrantXie/table-linker-pipelines/blob/main/nih/processing/1_NIH_Reporter_to_KGTK_files.ipynb
+	https://github.com/usc-isi-i2/table-linker-pipelines/blob/main/nih/processing/1_NIH_Reporter_to_KGTK_files.ipynb
 	
 	Results: nih_kgtk_files 
 	https://drive.google.com/drive/u/0/folders/1UKwiTVef5yqhsUD454h_inYqjcl5Pcqu
@@ -27,7 +27,7 @@
 	
 	Run 2_KGTK_files_to_tl_and_tableau.ipynb notebook (in processing folder)
 	
-	https://github.com/GrantXie/table-linker-pipelines/blob/main/nih/processing/2_KGTK_files_to_tl_and_tableau.ipynb
+	https://github.com/usc-isi-i2/table-linker-pipelines/blob/main/nih/processing/2_KGTK_files_to_tl_and_tableau.ipynb
 	
 	Final outputs are:
 	
@@ -66,17 +66,18 @@
 		
 	organization_with_qid https://drive.google.com/drive/u/1/folders/1W1ll4h34fhDHyd9GDP7y1Qc-GSR7y-NY
 		
-	cluster_coor.tsv (in processing folder)
+	cluster_coor.tsv
+	https://github.com/usc-isi-i2/table-linker-pipelines/blob/main/nih/cluster_coor.tsv
 		
-	Run 3_Output_tableau.ipynb notebook (in processing folder)
-	
-	https://github.com/GrantXie/table-linker-pipelines/blob/main/nih/processing/3_Output_tableau_Files.ipynb
+	Run 3_Output_tableau.ipynb notebook
+
+	https://github.com/usc-isi-i2/table-linker-pipelines/blob/main/nih/processing/3_Output_tableau_Files.ipynb
 	
 	Final outputs are:
 	
 	An excel file for tableau:  nih_0909_new3.xlsx (in nih folder, created through kgtk community-detection command)
 
-
+        https://github.com/usc-isi-i2/table-linker-pipelines/blob/main/nih/
 
 Visualizating Output File in Tableau 
         For instruction in map visualization with background color for county, 

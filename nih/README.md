@@ -54,6 +54,7 @@
 
 	Input: 
 	Wikidata Files (steps 1-4) in Build ElasticSearch Index Files for Table Linker, 
+	https://docs.google.com/document/d/15CDuNgixRpDQmeEo7XImPHBtla72hvJ0fniS_BGu9Bk/edit#heading=h.m95wofmy28v
 		
 	nih_kgtk_files
 	https://drive.google.com/drive/u/0/folders/1UKwiTVef5yqhsUD454h_inYqjcl5Pcqu

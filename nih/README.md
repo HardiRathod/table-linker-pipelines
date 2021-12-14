@@ -4,13 +4,11 @@
 
         Input:  
 	
-	https://exporter.nih.gov/ExPORTER_Catalog.aspx
+        https://exporter.nih.gov/ExPORTER_Catalog.aspx
 	
-	Run this notebook to convert data from NIH Reporter csv files to KGTK files
+        Run 1_NIH_Reporter_to_KGTK_files.ipynb notebook to convert data from NIH Reporter csv files to KGTK files
 	
-	1_NIH_Reporter_to_KGTK_files.ipynb
-	
-	Results: nih_kgtk_files https://drive.google.com/drive/u/0/folders/1UKwiTVef5yqhsUD454h_inYqjcl5Pcqu
+        Results: nih_kgtk_files https://drive.google.com/drive/u/0/folders/1UKwiTVef5yqhsUD454h_inYqjcl5Pcqu
 
 	
 	

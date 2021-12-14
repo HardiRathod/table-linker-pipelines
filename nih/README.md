@@ -2,7 +2,12 @@
 
 1. Download Data From NIH Reporter and Convert to KGTK files
 
-	Input:  
+	Input: 
+	nih_raw_file
+	
+	https://drive.google.com/drive/u/0/folders/12dW8hOTKS-iaJINc6KjWrs7gfyf0h4I6
+	
+	from
 	
 	https://exporter.nih.gov/ExPORTER_Catalog.aspx
 	

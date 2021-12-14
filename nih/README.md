@@ -4,11 +4,9 @@
 
 	Input: 
 	nih_raw_file
-	
 	https://drive.google.com/drive/u/0/folders/12dW8hOTKS-iaJINc6KjWrs7gfyf0h4I6
 	
 	from
-	
 	https://exporter.nih.gov/ExPORTER_Catalog.aspx
 	
 	Run 1_NIH_Reporter_to_KGTK_files.ipynb notebook (in processing folder) to convert data from NIH Reporter csv files to KGTK files

@@ -8,30 +8,36 @@
 	
         Run 1_NIH_Reporter_to_KGTK_files.ipynb notebook to convert data from NIH Reporter csv files to KGTK files
 	
-        Results: nih_kgtk_files https://drive.google.com/drive/u/0/folders/1UKwiTVef5yqhsUD454h_inYqjcl5Pcqu
+        Results: nih_kgtk_files 
+	https://drive.google.com/drive/u/0/folders/1UKwiTVef5yqhsUD454h_inYqjcl5Pcqu
 
 	
 	
 2.  Converting Raw KGTK Files to Table Linker / Tableau Files
 
-	Input: nih_kgtk_files https://drive.google.com/drive/u/0/folders/1UKwiTVef5yqhsUD454h_inYqjcl5Pcqu
+        Input: nih_kgtk_files 
+        https://drive.google.com/drive/u/0/folders/1UKwiTVef5yqhsUD454h_inYqjcl5Pcqu
 	
-	Run 2_KGTK_files_to_tl_and_tableau.ipynb notebook
+        Run 2_KGTK_files_to_tl_and_tableau.ipynb notebook
 	
-	Final outputs are:
+        Final outputs are:
 	
-		Files for table-linker https://drive.google.com/drive/u/0/folders/1eKHhUl2R6-Rbh5tf0eRecNLkkthvV-I4
+        Files for table-linker 
+		https://drive.google.com/drive/u/0/folders/1eKHhUl2R6-Rbh5tf0eRecNLkkthvV-I4
 
 
 3. Run table-linker for organization and people:
 
-	Input: Table_Linker_Complete_Files: https://drive.google.com/drive/u/0/folders/1eKHhUl2R6-Rbh5tf0eRecNLkkthvV-I4
+        Input: Table_Linker_Complete_Files: 
+	https://drive.google.com/drive/u/0/folders/1eKHhUl2R6-Rbh5tf0eRecNLkkthvV-I4
 	
-	Run: Table_linker_pipelines
+        Run: Table_linker_pipelines
 	
-	Results: person_with_qid https://drive.google.com/drive/u/1/folders/10QsHjFFdJp2yMWjldDXqC7zy8uDbxc7z
+        Results: person_with_qid 
+	https://drive.google.com/drive/u/1/folders/10QsHjFFdJp2yMWjldDXqC7zy8uDbxc7z
 	
-	organization_with_qid https://drive.google.com/drive/u/1/folders/1W1ll4h34fhDHyd9GDP7y1Qc-GSR7y-NY
+        organization_with_qid 
+	https://drive.google.com/drive/u/1/folders/1W1ll4h34fhDHyd9GDP7y1Qc-GSR7y-NY
 
 
 

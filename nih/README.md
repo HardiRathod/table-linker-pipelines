@@ -30,12 +30,12 @@
 	Input: Table_Linker_Complete_Files: 
 	https://drive.google.com/drive/u/0/folders/1eKHhUl2R6-Rbh5tf0eRecNLkkthvV-I4
 	
-        Run: Table_linker_pipelines
+	Run: Table_linker_pipelines
 	
 	Results: person_with_qid 
 	https://drive.google.com/drive/u/1/folders/10QsHjFFdJp2yMWjldDXqC7zy8uDbxc7z
 	
-        organization_with_qid 
+	organization_with_qid 
 	https://drive.google.com/drive/u/1/folders/1W1ll4h34fhDHyd9GDP7y1Qc-GSR7y-NY
 
 
@@ -43,25 +43,25 @@
 4. Converting Raw KGTK Files to Table Linker / Tableau Files
 
 	Input: 
-		Wikidata Files (steps 1-4) in Build ElasticSearch Index Files for Table Linker, 
+	Wikidata Files (steps 1-4) in Build ElasticSearch Index Files for Table Linker, 
 		
-		nih_kgtk_files
+	nih_kgtk_files
 		
-		nih_project_files https://drive.google.com/drive/u/0/folders/1yeo7e0KwqDPddzdAr43zutZYsmu8T3c4
+	nih_project_files https://drive.google.com/drive/u/0/folders/1yeo7e0KwqDPddzdAr43zutZYsmu8T3c4
 		
-		person_with_qid https://drive.google.com/drive/u/1/folders/10QsHjFFdJp2yMWjldDXqC7zy8uDbxc7z
+	person_with_qid https://drive.google.com/drive/u/1/folders/10QsHjFFdJp2yMWjldDXqC7zy8uDbxc7z
 		
-		organization_with_qid https://drive.google.com/drive/u/1/folders/1W1ll4h34fhDHyd9GDP7y1Qc-GSR7y-NY
+	organization_with_qid https://drive.google.com/drive/u/1/folders/1W1ll4h34fhDHyd9GDP7y1Qc-GSR7y-NY
 		
-		coinvestigators.compact.tsv
+	coinvestigators.compact.tsv
 		
-		cluster_coor.tsv
+	cluster_coor.tsv
 		
 	Run 3 tableau.ipynb notebook
 	
 	Final outputs are:
 	
-		An excel file for tableau:  nih_0909_new3.xlsx
+	An excel file for tableau:  nih_0909_new3.xlsx
 
 
 

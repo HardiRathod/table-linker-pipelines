@@ -77,6 +77,6 @@
 
 	https://github.com/usc-isi-i2/table-linker-pipelines/blob/main/nih/
 
-Visualizating Output File in Tableau 
+5. Visualizating Output File in Tableau 
 	For instruction in map visualization with background color for county, 
 	see Video: https://youtu.be/XZGLJhLFZQ0

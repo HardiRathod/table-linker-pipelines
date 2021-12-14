@@ -2,7 +2,9 @@
 
 1. Download Data From NIH Reporter and Convert to KGTK files
 
-        Input:  https://exporter.nih.gov/ExPORTER_Catalog.aspx
+        Input:  
+	
+	https://exporter.nih.gov/ExPORTER_Catalog.aspx
 	
 	Run this notebook to convert data from NIH Reporter csv files to KGTK files
 	

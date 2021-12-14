@@ -65,7 +65,7 @@
 	
 	Final outputs are:
 	
-	An excel file for tableau:  nih_0909_new3.xlsx (in nih folder)
+	An excel file for tableau:  nih_0909_new3.xlsx (in nih folder, created through kgtk community-detection command)
 
 
 

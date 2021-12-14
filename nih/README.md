@@ -53,15 +53,13 @@
 		
 	organization_with_qid https://drive.google.com/drive/u/1/folders/1W1ll4h34fhDHyd9GDP7y1Qc-GSR7y-NY
 		
-	coinvestigators.compact.tsv
-		
-	cluster_coor.tsv
+	cluster_coor.tsv (in processing folder)
 		
 	Run 3 tableau.ipynb notebook
 	
 	Final outputs are:
 	
-	An excel file for tableau:  nih_0909_new3.xlsx
+	An excel file for tableau:  nih_0909_new3.xlsx (in nih folder)
 
 
 

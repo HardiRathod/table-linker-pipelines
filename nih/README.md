@@ -42,6 +42,8 @@
 	
 	Run: Table_linker_pipelines
 	
+	https://github.com/GrantXie/table-linker-pipelines/tree/main/nih
+	
 	Results: person_with_qid 
 	https://drive.google.com/drive/u/1/folders/10QsHjFFdJp2yMWjldDXqC7zy8uDbxc7z
 	
@@ -56,6 +58,7 @@
 	Wikidata Files (steps 1-4) in Build ElasticSearch Index Files for Table Linker, 
 		
 	nih_kgtk_files
+	https://drive.google.com/drive/u/0/folders/1UKwiTVef5yqhsUD454h_inYqjcl5Pcqu
 		
 	nih_project_files https://drive.google.com/drive/u/0/folders/1yeo7e0KwqDPddzdAr43zutZYsmu8T3c4
 		

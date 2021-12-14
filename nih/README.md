@@ -13,6 +13,8 @@
 	
 	Run 1_NIH_Reporter_to_KGTK_files.ipynb notebook (in processing folder) to convert data from NIH Reporter csv files to KGTK files
 	
+	https://github.com/GrantXie/table-linker-pipelines/blob/main/nih/processing/1_NIH_Reporter_to_KGTK_files.ipynb
+	
 	Results: nih_kgtk_files 
 	https://drive.google.com/drive/u/0/folders/1UKwiTVef5yqhsUD454h_inYqjcl5Pcqu
 
@@ -24,6 +26,8 @@
 	https://drive.google.com/drive/u/0/folders/1UKwiTVef5yqhsUD454h_inYqjcl5Pcqu
 	
 	Run 2_KGTK_files_to_tl_and_tableau.ipynb notebook (in processing folder)
+	
+	https://github.com/GrantXie/table-linker-pipelines/blob/main/nih/processing/2_KGTK_files_to_tl_and_tableau.ipynb
 	
 	Final outputs are:
 	
@@ -61,7 +65,9 @@
 		
 	cluster_coor.tsv (in processing folder)
 		
-	Run 3 tableau.ipynb notebook (in processing folder)
+	Run 3_Output_tableau.ipynb notebook (in processing folder)
+	
+	https://github.com/GrantXie/table-linker-pipelines/blob/main/nih/processing/3_Output_tableau_Files.ipynb
 	
 	Final outputs are:
 	

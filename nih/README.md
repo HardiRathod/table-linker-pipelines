@@ -32,7 +32,7 @@
 	
         Run: Table_linker_pipelines
 	
-        Results: person_with_qid 
+	Results: person_with_qid 
 	https://drive.google.com/drive/u/1/folders/10QsHjFFdJp2yMWjldDXqC7zy8uDbxc7z
 	
         organization_with_qid 

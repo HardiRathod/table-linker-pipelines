@@ -73,9 +73,9 @@
 	
 	Final outputs are:
 	
-	An excel file for tableau:  nih_0909_new3.xlsx (in nih folder, created through kgtk community-detection command)
+	An excel file for tableau:  nih_0909_new.tsv (in nih folder, created through kgtk community-detection command)
 
-	https://github.com/usc-isi-i2/table-linker-pipelines/blob/main/nih/
+	https://github.com/usc-isi-i2/table-linker-pipelines/blob/main/nih/nih_0909_new.tsv 
 
 5. Visualizating Output File in Tableau 
 	For instruction in map visualization with background color for county, 

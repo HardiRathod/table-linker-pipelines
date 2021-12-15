@@ -23,9 +23,9 @@
 	Input: nih_kgtk_files 
 	https://drive.google.com/drive/u/0/folders/1UKwiTVef5yqhsUD454h_inYqjcl5Pcqu
 
-	Run 2_KGTK_files_to_tl_and_tableau.ipynb notebook (in processing folder) to convert raw files to KGTK files
+	Run 2_KGTK_files_to_tl.ipynb notebook (in processing folder) to convert raw files to KGTK files
 
-	https://github.com/usc-isi-i2/table-linker-pipelines/blob/main/nih/processing/2_KGTK_files_to_tl_and_tableau.ipynb
+	https://github.com/usc-isi-i2/table-linker-pipelines/blob/main/nih/processing/2_KGTK_files_to_tl.ipynb
 
 	Final outputs are:
 

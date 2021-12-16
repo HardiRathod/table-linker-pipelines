@@ -66,7 +66,7 @@
 	organization_with_qid https://drive.google.com/drive/u/1/folders/1W1ll4h34fhDHyd9GDP7y1Qc-GSR7y-NY
 
 	cluster_coor.tsv
-	https://github.com/usc-isi-i2/table-linker-pipelines/blob/main/nih/cluster_coor.tsv
+	https://github.com/usc-isi-i2/table-linker-pipelines/blob/main/nih/processing/cluster_coor.tsv
 
 	Run 3_Output_tableau.ipynb notebook to convert the input files for tableau input tsv file
 

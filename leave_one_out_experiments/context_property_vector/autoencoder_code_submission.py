@@ -1,3 +1,9 @@
+# Purpose:
+# Creates an autoencoder model for context property vector - Dimensionality reduction from all_properties to discrete vector columns
+# Data: Download from AWS S3 or recreate with context property vector
+# Set paths and variables in Adding important paths and variables
+# Change the modle configurations in AutoEncoders class
+
 ###########################################################
 ### Importing Libraries ###
 print("Importing Libraries .......")
@@ -15,11 +21,12 @@ from ast import literal_eval
 import scipy.sparse as sp
 import pickle
 
-### Adding Important Paths ###
+### Adding Important Paths and Variables ###
 all_train_files = '../Experiments/context_vector_train_data/'
 all_dev_files = '../Experiments/context_vector_dev_data/'
-save_autoencoder_model = 'saved_1000/'
-model_experiment_name = 'saved_1000'
+encoder_output = 100
+save_autoencoder_model = f'saved_{encoder_output}/'
+model_experiment_name = f'saved_{encoder_output}'
 
 if not os.path.exists(save_autoencoder_model):
     os.mkdir(save_autoencoder_model)
@@ -158,12 +165,12 @@ print("Shape of the matrix............", sparse_matrix.shape)
 ### Encoder-Decoder Model Structure ###
 class AutoEncoders(Model):
 
-    def __init__(self, layer_1_unit = 1000, layer_2_unit=None, layer_3_unit = None, output_units = None):
+    def __init__(self, layer_1_unit = 2000, layer_2_unit=encoder_output, layer_3_unit = None, output_units = None):
         super().__init__()
         self.encoder = Sequential(
             [
                 Dense(layer_1_unit, activation="relu"),
-                #Dense(layer_2_unit, activation="relu"),
+                Dense(layer_2_unit, activation="relu"),
                 #Dense(layer_3_unit, activation="relu")
             ]
         )
@@ -171,7 +178,7 @@ class AutoEncoders(Model):
         self.decoder = Sequential(
             [
                 #Dense(layer_2_unit, activation="relu"),
-                #Dense(layer_1_unit, activation="relu"),
+                Dense(layer_1_unit, activation="relu"),
                 Dense(output_units, activation="sigmoid")
             ]
         )

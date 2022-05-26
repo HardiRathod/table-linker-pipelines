@@ -5,7 +5,7 @@
 # Set up particular dataset and train dataset in Defining Parameters
 
 # For data: data is downloaded directly with the AWS S3 during the model running. Define your Access Key and ID in Defining connection to S3
-# Alternatively create dataset using create_dataset.py
+# Alternatively create dataset using feature_generation.py
 
 
 ###Importing all the libraries

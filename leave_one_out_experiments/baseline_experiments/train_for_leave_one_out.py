@@ -5,7 +5,7 @@
 # Set up particular dataset and train dataset in Defining Parameters
 
 # For data: data is downloaded directly with the AWS S3 during the model running. Define your Access Key and ID in Defining connection to S3
-# Alternatively create dataset using create_dataset.py
+# Alternatively create dataset using feature_generation.py
 
 
 ###Importing all the libraries
@@ -553,8 +553,10 @@ for shuff_method in shuffling_strategy:
                                   negative_feat_path=neg_output,
                                   dev_path=dev_files, dev_output=dev_files,
                                   model_save_path=model_save_path, min_max_scaler_path=min_max_scaler_path)
+    print("LOAD DATA")
     train_dataloader_1 = generate_dataloader(pos_output, neg_output)
     best_model_path, precision = train(training_args, train_dataloader_1)
     print(precision)
     details.append([batch_size, shuff_method, learning_rate, precision])
     print(details)
+
